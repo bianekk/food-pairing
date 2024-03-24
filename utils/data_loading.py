@@ -24,14 +24,13 @@ def read_food_molecules(source: str = "flavordb"):
         flavor_df['synonyms'] = flavor_df['synonyms'].apply(string_to_list)
     else:
         flavor_df = pd.read_csv(
-            "data/foodb_molecules.csv", 
+            "data/foodb.csv", 
             sep=';', 
             index_col=False
             )
-        flavor_df = flavor_df[flavor_df['id'].str.contains("WI") == False]
 
-        flavor_df['id'] = flavor_df['id'].astype(float)
-        flavor_df['id'] = flavor_df['id'].astype(int)
+        flavor_df['food_id'] = flavor_df['food_id'].astype(float)
+        flavor_df['food_id'] = flavor_df['food_id'].astype(int)
     
     flavor_df['molecules'] = flavor_df['molecules'].apply(string_to_list)
 
