@@ -1,0 +1,11 @@
+Co-occurrences,Nearest Neighbors,Panther,node2vec,FlavorGraph,FlavorDB
+tea,rhubarb,tea,mango,lettuce,tea
+beer,beans,beer,banana,cucumber,potato
+soybean,red currant,fruits,cognac brandy,avocado,mango
+red wine,kiwifruit,blackberry,beef,onion,guava
+blackberry,pecans,angelica,wholewheat bread,potato,apple
+potato,greenbeans,rum,angelica,cheese,grape
+angelica,litchi,soybean,cocoa,jalapeno,soybean
+mango,buckwheat,cognac brandy,blackberry,cumin,strawberry
+apple,brussels sprout,white wine,garden tomato,cheddar cheese,cocoa
+corn,artichoke,corn,white wine,red bell pepper,mushroom

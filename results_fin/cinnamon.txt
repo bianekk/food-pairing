@@ -1,0 +1,11 @@
+Co-occurrences,Nearest Neighbors,Panther,node2vec,FlavorGraph,FlavorDB
+pepper,ceylon cinnamon,ginger,ceylon cinnamon,nutmeg,pepper
+ginger,octopus,pepper (spice),pepper (spice),vanilla,ginger
+ceylon cinnamon,nutmeg,pepper,nutmeg,allspice,laurel
+clove,fennel,ceylon cinnamon,winter savory,clove,basil
+rosemary,winter savory,herbs and spices,common oregano,walnut,rosemary
+soybean,chinese cinnamon,rosemary,sweet basil,mace,nutmeg
+nutmeg,summer savory,soy milk,pot marjoram,raisin,oregano
+dill,star anise,dill,sweet bay,pecan,cassia
+pepper(spice),saffron,laurel,star anise,shortening,tea
+apple cider vinegar,tarragon,celery,hyssop,sugar,celery

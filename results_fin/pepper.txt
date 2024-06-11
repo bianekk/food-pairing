@@ -1,0 +1,11 @@
+Co-occurrences,Nearest Neighbors,Panther,node2vec,FlavorGraph,FlavorDB
+capsicum,pepper (spice),pepper (spice),pepper (spice),green bell pepper,ginger
+pepper (spice),yam,capsicum,yellow bell pepper,sweet basil,laurel
+yam,green bell pepper,ginger,green bell pepper,red bell pepper,rosemary
+ginger,red bell pepper,herbs and spices,oregano,cumin,basil
+green bell pepper,capsicum,tea,sweetbay,orange bell pepper,orange
+red bell pepper,yellow bell pepper,laurel,yam,oregano,spearmint
+yellow bell pepper,orange bell pepper,soybean,red bell pepper,yellow bell pepper,oregano
+orange bell pepper,nutmeg,orange,laurel,basil,nutmeg
+soybean,octopus,dill,wild carrot,parsley,celery
+tea,rosemary,basil,apple cider vinegar,carrot,dill

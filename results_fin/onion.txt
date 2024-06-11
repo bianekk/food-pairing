@@ -1,0 +1,11 @@
+Co-occurrences,Nearest Neighbors,Panther,node2vec,FlavorGraph,FlavorDB
+garden onion,onion,garden onion,garden onion,garlic,cocoa
+welsh onion,chive,welsh onion,red onion,potato,garlic
+garden onion,kai lan,green onion,greeen onion,celery,peanut
+green onion,elliottts blueberry,onion-family,welsh onion,chive,potato
+red onion,dates,red onion,chive,tomato,tomato
+garlic,black bear,garlic,redskin onion,pepper,chive
+beer,atlantic menhaden,coffee,allium,cabbage,soybean
+tea,cetacea,allium,chives,carrot,greenbeans
+soybean,ashgourd,beef,leek,mushroom,tea
+peanut,tuna,tea,garlic,green bean,leek

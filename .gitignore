@@ -1,2 +1,4 @@
-
+networks/
+data/
 *.csv
+*.pyc
